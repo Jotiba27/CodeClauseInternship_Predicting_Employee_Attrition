@@ -1,0 +1,2 @@
+# CodeClauseInternship_Predicting_Employee_Attrition
+Predicting Employee Attrition an Data Science Project
